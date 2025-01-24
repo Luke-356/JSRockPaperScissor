@@ -1,6 +1,6 @@
 # JSRockPaperScissor
 
-Beautifully programmed RockPaperScissor JavaScript app.
+Beautifully programmed RockPaperScissor Pure Vanilla JavaScript app.
 
 ![Screenshot of the app](https://github.com/Luke-356/JSRockPaperScissor/blob/23f3ae5f879cb2a63ac19204d36cc65a3ade898e/Images/rps.png)
 
